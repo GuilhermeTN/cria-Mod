@@ -11,10 +11,10 @@ O objetivo principal deste projeto é criar um mod único e personalizado para o
 - Java: Linguagem de programação utilizada para implementar funcionalidades personalizadas no mod.
 - Criação manual de texturas: Estamos criando todas as texturas utilizadas no mod manualmente, para garantir um visual único e coeso.
 
-##Como Contribuir:
+## Como Contribuir:
 Atualmente, este projeto está sendo desenvolvido em colaboração com meu amigo. No entanto, se você estiver interessado em contribuir com ideias, sugestões ou até mesmo código, sinta-se à vontade para entrar em contato conosco. Todas as contribuições e feedbacks são bem-vindos!
 
-##Contato:
+## Contato:
 Se você tiver alguma dúvida, sugestão ou quiser colaborar conosco neste projeto, entre em contato por meio dos seguintes canais:
 
 linkedin: https://www.linkedin.com/in/guilherme-torres-277862191 Guilherme Torres
