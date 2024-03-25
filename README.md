@@ -2,7 +2,7 @@
 ## Descrição:
 Este projeto consiste na criação de um mod para o jogo Minecraft utilizando a aplicação MCreator. O mod está sendo desenvolvido em colaboração com meu amigo, e envolve o uso de Java para implementação de funcionalidades personalizadas, bem como a criação manual de todas as texturas utilizadas no mod.
 
-##Objetivo:
+## Objetivo:
 O objetivo principal deste projeto é criar um mod único e personalizado para o Minecraft, que ofereça uma experiência nova e interessante para os jogadores. Estamos trabalhando para implementar uma variedade de recursos e elementos exclusivos, que serão adicionados ao jogo por meio do nosso mod.
 
 ## Tecnologias Utilizadas:
