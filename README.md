@@ -20,5 +20,6 @@ Se você tiver alguma dúvida, sugestão ou quiser colaborar conosco neste proje
 linkedin: https://www.linkedin.com/in/guilherme-torres-277862191 Guilherme Torres
 
 Linkedin: https://www.linkedin.com/in/guilherme-sales-santos-b875ba89/ Guilherme Sales
+
 GitHub: GuilhermeTN
 GitHub: BobbaGS
