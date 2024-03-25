@@ -1,0 +1,165 @@
+{
+  "mod_elements": [
+    {
+      "name": "GraphiteStick",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_stick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/models/item/graphite_stick.json",
+          "src/main/java/net/mcreator/teste/item/GraphiteStickItem.java",
+          "src/main/resources/assets/teste/models/item/graphite_stick_0.json"
+        ]
+      }
+    },
+    {
+      "name": "GraphitePlate",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/models/item/graphite_plate.json",
+          "src/main/java/net/mcreator/teste/item/GraphitePlateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Alicate",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alicate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/models/item/alicate.json",
+          "src/main/java/net/mcreator/teste/item/AlicateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GraphiteStickRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/teste/recipes/graphite_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RecipeAlicate",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_alicate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/teste/recipes/recipe_alicate.json"
+        ]
+      }
+    },
+    {
+      "name": "GraphiteAmontoado",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_amontoado",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/models/item/graphite_amontoado.json",
+          "src/main/java/net/mcreator/teste/item/GraphiteAmontoadoItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GraphiteAmontoadorecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphite_amontoadorecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/teste/recipes/graphite_amontoadorecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Prensa",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prensa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/models/item/prensa.json",
+          "src/main/java/net/mcreator/teste/block/PrensaBlock.java",
+          "src/main/java/net/mcreator/teste/block/entity/PrensaBlockEntity.java",
+          "src/main/resources/assets/teste/models/block/prensa.json",
+          "src/main/resources/assets/teste/blockstates/prensa.json"
+        ]
+      }
+    },
+    {
+      "name": "Prensainterface",
+      "type": "gui",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prensainterface",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/teste/world/inventory/PrensainterfaceMenu.java",
+          "src/main/java/net/mcreator/teste/client/gui/PrensainterfaceScreen.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.teste.graphite_plate": "Graphite Plate",
+      "block.teste.prensa": "Prensa",
+      "item.teste.graphite_stick": "Graphite Stick",
+      "item.teste.alicate": "Alicate",
+      "item.teste.graphite_amontoado": "Graphite Amontoado",
+      "gui.teste.prensainterface.label_prensa_hidraulica": "Prensa Hidraulica"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "teste",
+    "modName": "Teste",
+    "version": "1.0.0",
+    "author": "PC INT, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.teste",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

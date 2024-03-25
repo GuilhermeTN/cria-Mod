@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "teste:item/graphite_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damage": 1,
+        "cooldown": 0
+      },
+      "model": "teste:item/graphite_stick_0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "teste:block/prensa_cima",
+    "up": "teste:block/prensa_cima",
+    "north": "teste:block/prensa",
+    "east": "teste:block/prensa_lado",
+    "south": "teste:block/prensa",
+    "west": "teste:block/prensa_lado",
+    "particle": "teste:block/prensa_cima"
+  },
+  "render_type": "translucent"
+}
